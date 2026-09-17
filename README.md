@@ -1,16 +1,106 @@
-# React + Vite
+# Udit Kumar — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio built with React and Vite to showcase my projects, technical skills, certifications, and contact information.
 
-Currently, two official plugins are available:
+## 🌐 Live Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Portfolio:** https://YOUR-LIVE-PORTFOLIO-URL
 
-## React Compiler
+## 👨‍💻 About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm a Computer Science Engineering graduate passionate about Cybersecurity, Artificial Intelligence, and Full Stack Development. I enjoy building practical and secure applications while exploring modern technologies.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
+* **UI & Animation:** Framer Motion, Lucide React, React Icons
+* **Build Tool:** Vite
+* **Version Control:** Git, GitHub
+
+## 🚀 Featured Projects
+
+### 🛡️ CyberSentinel — AI-Powered Intrusion Detection System
+
+An AI-powered intrusion detection system that analyzes network traffic and classifies potential attacks using machine learning.
+
+**Technologies:** Python, Scapy, Machine Learning, Random Forest, NSL-KDD, Streamlit
+
+* [GitHub Repository](https://github.com/Udkk/AI-Intrusion-Detection-System)
+* [Live Demo](https://cybersentinel-ids.onrender.com)
+
+### 🔐 Post-Quantum Secure File Transfer
+
+A hybrid cryptographic file transfer system combining classical and post-quantum cryptography for secure communication.
+
+**Technologies:** Java, Kyber, ECDH, HKDF, AES-256-GCM, Dilithium, JavaFX
+
+* [GitHub Repository](https://github.com/Udkk/quantum-resilient-secure-transfer)
+
+### 📋 Team Task Manager
+
+A full-stack project management application with authentication, role-based access control, project management, task assignment, and task tracking.
+
+**Technologies:** React, Node.js, Express.js, MongoDB, JWT, Tailwind CSS
+
+* [GitHub Repository](https://github.com/Udkk/Team-Task-Manager)
+* [Live Demo](https://team-task-manager-1-e766.onrender.com)
+
+## 📜 Certifications
+
+The portfolio includes certifications covering areas such as:
+
+* Artificial Intelligence
+* Networking & Cloud Computing
+* Databases & SQL
+* 5G Network Fundamentals
+* Cloud, IoT & Edge ML
+* Programmatic Prompting with OpenAI
+
+## 📁 Project Structure
+
+```text
+portfolio/
+├── public/
+│   ├── certificates/
+│   ├── projects/
+│   └── profile.png
+├── src/
+│   ├── components/
+│   ├── data/
+│   ├── assets/
+│   ├── App.jsx
+│   └── index.css
+├── package.json
+└── vite.config.js
+```
+
+## ⚙️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Udkk/portfolio.git
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The application will be available at the local development URL shown by Vite.
+
+## 📬 Contact
+
+If you'd like to connect regarding opportunities, projects, or collaboration, feel free to reach out through the contact section of my portfolio.
+
+---
+
+Built with React + Vite.
