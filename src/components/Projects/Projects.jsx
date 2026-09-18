@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
-import Container from "../common/Container";
-import SectionTitle from "../common/SectionTitle";
+import Container from "../Common/Container";
+import SectionTitle from "../Common/SectionTitle";
 import ProjectCard from "./ProjectCard";
 import { projects } from "../../data/project";
 

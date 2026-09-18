@@ -5,9 +5,9 @@ import {
   Code2,
 } from "lucide-react";
 
-import Container from "../common/Container";
-import SectionTitle from "../common/SectionTitle";
-import Badge from "../common/Badge";
+import Container from "../Common/Container";
+import SectionTitle from "../Common/SectionTitle";
+import Badge from "../Common/Badge";
 
 const About = () => {
   return (

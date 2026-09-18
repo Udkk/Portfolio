@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-import Container from "../common/Container";
-import SectionTitle from "../common/SectionTitle";
+import Container from "../Common/Container";
+import SectionTitle from "../Common/SectionTitle";
 import SkillCard from "./SkillCard";
 
 import { skillCategories } from "../../data/Skills";
