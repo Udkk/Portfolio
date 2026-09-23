@@ -55,7 +55,7 @@ const Contact = () => {
             </p>
 
             <a
-              href="mailto:your-email@example.com"
+              href="mailto:udit8508@gmail.com"
               className="
                 mt-9
                 inline-flex
@@ -108,7 +108,7 @@ const Contact = () => {
               title="LinkedIn"
               description="Connect with me professionally"
               label="LinkedIn Profile"
-              link="https://www.linkedin.com/"
+              link="https://www.linkedin.com/in/udit-kumar-a99550309/"
             />
           </motion.div>
         </div>
