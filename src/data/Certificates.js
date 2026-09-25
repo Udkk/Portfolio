@@ -1,4 +1,12 @@
+
 export const certificates = [
+  {
+    title: "Blockchain Technology using Ethereum and Polygon",
+    issuer: "Chandigarh University • MetaCrafters",
+    category: "Blockchain • Ethereum • Polygon",
+    image: "/certificates/blockchain-technology-ethereum-polygon.png",
+  },
+
   {
     title: "Foundation of Cloud IoT Edge ML",
     issuer: "NPTEL",
